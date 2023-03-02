@@ -1,0 +1,56 @@
+.card5 {
+    background-color: white;
+    width: 19.7em;
+    height: 19em;
+    border-radius: 0.5em 0.5em 0.5em 0.5em;
+}
+
+.heading {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    padding-top: 0.5em;
+    color: rgba(18,37,70,255);
+    margin-left: 0.5em;
+}
+
+.icon {
+    color: rgba(18,37,70,255);
+}
+
+.bodyDiv1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 4.5em;
+    background-color: #ebf1f9;
+    border-radius: 0.5em;
+    width: 18em;
+    margin: auto;
+    justify-content: center;
+    vertical-align: middle;
+}
+
+.bodyDiv2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 3em;
+    background-color: #ebf1f9;
+    border-radius: 0.5em;
+    width: 18em;
+    margin: auto;
+    margin-top: 0.5em;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 2.5em;
+    font-weight: 500;
+    color: rgba(18,37,70,255);
+}
+
+.btn {
+    border-radius: 5px;
+    border: 0;
+    background-color: rgba(18,37,70,255);
+    color: white;
+}
+
+.title {
+    color: rgba(18,37,70,255);
+}

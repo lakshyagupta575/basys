@@ -1,0 +1,34 @@
+.card4 {
+    background-color: white;
+    width: 28em;
+    height: 11em;
+    margin-top: 2em;
+    border-radius: 0.5em 0.5em 0.5em 0.5em;
+}
+
+.heading {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    font-size: 26px;
+    padding-top: 0.5em;
+    text-align: center;
+    color: rgba(18,37,70,255)
+}
+
+.card4Body {
+    margin-top: 0.75em;
+    height: 7.5em;
+}
+
+.card4Div1 {
+    background-color: #ebf1f9;
+    height: 5.5em;
+}
+
+.card4Div2 {
+    height: 1em
+}
+
+.view {
+    height: 5.5em;
+}

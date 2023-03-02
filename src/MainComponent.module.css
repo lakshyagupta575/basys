@@ -1,0 +1,27 @@
+.div1 {
+    width: 100%;
+    overflow: hidden;
+}
+
+.div2 {
+    width: 300px;
+    float: left;
+}
+
+.div3 {
+    margin-left: 1em; 
+    margin-top: 2.5em;
+    float: left;
+}
+
+.div4 {
+    margin-left: 2.25em; 
+    margin-top: 2.5em;
+    float: left;
+}
+
+.div5 {
+    margin-left: 2em; 
+    margin-top: 2.5em;
+    float: left;
+}

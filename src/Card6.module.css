@@ -1,0 +1,60 @@
+.card6 {
+    background-color: white;
+    width: 29em;
+    height: 20.5em;
+    border-radius: 0.5em 0.5em 0.5em 0.5em;
+    position: absolute;
+    bottom: 0.5em;
+    right: 3em;
+}
+
+.heading {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    padding-top: 0.5em;
+    color: rgba(18,37,70,255);
+}
+
+.title {
+    color: rgba(18,37,70,255);
+}
+
+.icon {
+    color: rgba(18,37,70,255);
+}
+
+.btn {
+    border-radius: 5px 5px 5px 0px;
+    height: 2.5em;
+    border: 0;
+    margin-left: 1em;
+    margin-top: 0.5em;
+    text-align: left;
+}
+
+.btn2 {
+    border-radius: 5px 5px 0px 5px;
+    height: 2em;
+    background-color: rgba(18,37,70,255);
+    color: white;
+    border: 0;
+    margin-right: 1em;
+    margin-top: 0.5em;
+}
+
+.submitBtn {
+    background-color: white;
+    border-radius: 10px;
+    height: 2.5em;
+    width: 33em;
+    margin-top: 1em;
+    margin-left: 1.1em;
+    text-align: left;
+    color: gray
+}
+
+.text {
+    color: gray;
+}
+

@@ -1,0 +1,17 @@
+.card {
+    margin-top: 1em;
+    background-color: white;
+    width: 20em;
+    height: 19em;
+    border-radius: 0.5em 0.5em 0.5em 0.5em;
+}
+
+.logo {
+    border-radius: 0.5em 0.5em 0em 0em;
+    width: 20em;
+    height: 13.5em;
+}
+
+.color {
+    color: rgb(18, 37, 75)
+}

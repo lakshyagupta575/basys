@@ -1,0 +1,15 @@
+.icon {
+    color: rgba(18,37,70,255);
+}
+
+.heading {
+    color: rgba(18,37,70,255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800;
+    font-size: 30px;
+}
+
+.header {
+    background-color: rgba(212,220,241,255);
+    border: 0;
+}

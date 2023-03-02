@@ -1,0 +1,28 @@
+.alignment {
+    margin: 1em 0em 0em 2em ;
+    max-width: 18em;
+    min-height: 42em;
+    background-color: white;
+}
+
+.header {
+    margin: 1em 0em 1em 0em;
+}
+
+.title {
+    margin-left: -2em;
+    color: rgba(18,37,70,255);
+}
+
+.icon {
+    color: rgba(18,37,70,255);
+}
+
+.itemIcon {
+    color: rgba(18,37,70,255);
+}
+
+.itemText {
+    color: rgba(18,37,70,255);
+    margin-left: -20px;
+}
